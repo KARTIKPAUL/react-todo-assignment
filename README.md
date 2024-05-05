@@ -57,5 +57,20 @@ react-todo-app/
 
 ## _To run this project locally, follow these steps:_
 
-Clone the repository: 
-#git clone 
+1.Clone the repository: 
+```
+git clone https://github.com/KARTIKPAUL/react-todo-assignment
+
+``` 
+2.Install dependencies:
+```
+cd react-todo-app
+npm install
+```
+
+3.Start the development server:
+```
+npm start
+```
+# Author
+_KartikPaul
