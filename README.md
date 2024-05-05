@@ -3,33 +3,33 @@
 
 # Features
    
-    - Add new tasks with a user-friendly input interface.
-    - View the list of added tasks in a structured format.
-    - Delete tasks individually with a delete button for each task.
+   - Add new tasks with a user-friendly input interface.
+   - View the list of added tasks in a structured format.
+   - Delete tasks individually with a delete button for each task.
    
 
 # Technologies Used
    
-    - ReactJS: Frontend JavaScript library for building user interfaces.
-    - Redux: State management library for managing application state.
-    - Tailwind CSS: Utility-first CSS framework for styling the components.
-    - HTML and CSS: Used for structuring and styling the application.
+   - ReactJS: Frontend JavaScript library for building user interfaces.
+   - Redux: State management library for managing application state.
+   - Tailwind CSS: Utility-first CSS framework for styling the components.
+   - HTML and CSS: Used for structuring and styling the application.
     
 
 # Project Structure
 
 ## _The project structure is organized as follows:_
 
-    - src/: Contains the source code for the React components, actions, reducers, and store.
-    - actions/: Redux action creators for managing tasks.
-    - components/: React components for TaskInput and TaskList.
-    - reducers/: Redux reducer for managing the application state.
-    - store/: Redux store configuration.
-    - App.js: Main component rendering TaskInput and TaskList components.
-    - index.js: Entry point of the React application.
-    - public/: Contains the public assets and HTML file.
-    - package.json: Defines project dependencies and scripts.
-    - README.md: Project documentation file (you're reading it now).
+   - src/: Contains the source code for the React components, actions, reducers, and store.
+   - actions/: Redux action creators for managing tasks.
+   - components/: React components for TaskInput and TaskList.
+   - reducers/: Redux reducer for managing the application state.
+   - store/: Redux store configuration.
+   - App.js: Main component rendering TaskInput and TaskList components.
+   - index.js: Entry point of the React application.
+   - public/: Contains the public assets and HTML file.
+   - package.json: Defines project dependencies and scripts.
+   - README.md: Project documentation file (you're reading it now).
 
 
 # Here All The File Structure
