@@ -33,7 +33,7 @@
 
 
 # Here All The File Structure
-
+```
 react-todo-app/
 ├── src/
 │   ├── actions/
@@ -51,7 +51,7 @@ react-todo-app/
 │   └── index.html
 ├── package.json
 └── README.md
-
+```
 
 # Getting Started
 
