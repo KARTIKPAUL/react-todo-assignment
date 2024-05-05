@@ -19,7 +19,7 @@
 # Project Structure
 
 ## _The project structure is organized as follows:_
-    ---
+---
     -src/: Contains the source code for the React components, actions, reducers, and store.
     -actions/: Redux action creators for managing tasks.
     -components/: React components for TaskInput and TaskList.
@@ -30,10 +30,10 @@
     -public/: Contains the public assets and HTML file.
     -package.json: Defines project dependencies and scripts.
     -README.md: Project documentation file (you're reading it now).
-    ---
+---
 
 # Here All The File Structure
-
+---
 react-todo-app/
 ├── src/
 │   ├── actions/
@@ -51,7 +51,7 @@ react-todo-app/
 │   └── index.html
 ├── package.json
 └── README.md
-
+---
 
 # Getting Started
 
