@@ -67,8 +67,29 @@ git clone https://github.com/KARTIKPAUL/react-todo-assignment
 cd react-todo-app
 npm install
 ```
+3.Tailwind Css Install
+```
+npm install tailwindcss postcss-cli autoprefixer
+npx tailwindcss init -p
+```
+4.Next, modify the PostCSS configuration (postcss.config.js) to include Tailwind CSS:
+```
+module.exports = {
+  plugins: [
+    require('tailwindcss'),
+    require('autoprefixer'),
+  ],
+};
 
-3.Start the development server:
+```
+5.Make sure to import the Tailwind CSS styles in your main CSS file (src/index.css):
+```
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+```
+6.Start the development server:
 ```
 npm start
 ```
